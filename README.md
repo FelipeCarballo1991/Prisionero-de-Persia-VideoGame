@@ -36,8 +36,8 @@ Tu misión es explorar los distintos lugares en búsqueda de elementos que te ay
 
 ## Controles
 
-- Este juego no tiene interfaz grafica.
-- Guiate con la numeracion de los menú (similar a un cajero automatico)
+- Este juego no tiene interfaz gráfica.
+- Guiate con la numeración de los menú (similar a un cajero automático)
 - IMPORTANTE: No utilices el teclado numerico ya que no reconocerá la teclas como numero.
 
 
