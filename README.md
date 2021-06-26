@@ -34,7 +34,14 @@ Tu misión es explorar los distintos lugares en búsqueda de elementos que te ay
 ![presentacion](presentacion.png)
 
 
-## Comandos utiles (CONSOLA)
+## Controles
+
+- Este juego no tiene interfaz grafica.
+- Guiate con la numeracion de los menú (similar a un cajero automatico)
+- IMPORTANTE: No utilices el teclado numerico ya que no reconocerá la teclas como numero.
+
+
+## Comandos útiles (CONSOLA)
 
 **cls:** Limpiar pantalla          
 **Alt+ENTER:** Minimizar/Maximizar               
