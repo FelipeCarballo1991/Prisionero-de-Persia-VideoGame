@@ -30,6 +30,8 @@ Tu misión es explorar los distintos lugares en busqueda de elementos que te ayu
 - El azar es el unico que podra ayudarte
 - Ten paciencia y lee con detenimiento todo los textos
 
+![presentacion](presentacion.png)
+
 
 ## Comandos utiles (CONSOLA)
 
