@@ -1,6 +1,6 @@
 # Prisionero de Persia
 
-Video juego creado en Assembly86
+Video juego creado en Assembly
 
 ## Instalacion Maquina Virtual y Video juego.
 
@@ -20,7 +20,7 @@ Tu misión es explorar los distintos lugares en búsqueda de elementos que te ay
 - Recorre nuevamente los lugares, quizas haya cambiado algo.
 - Recolecta armas y escudos que te serviran en la batalla.
 - El azar rige tu destino pero tambien tu inteligencia.
-- Ten paciencia y lee con detenimiento todo los textos.
+- Ten paciencia y lee con detenimiento todos los textos.
 
 ![presentacion](presentacion.png)
 
@@ -28,8 +28,8 @@ Tu misión es explorar los distintos lugares en búsqueda de elementos que te ay
 ## Controles
 
 - Este juego no tiene interfaz gráfica.
-- Guiate con la numeración de los menú. (similar a un cajero automático)
-- IMPORTANTE: No utilices el teclado numerico ya que no reconocerá la teclas como número.
+- Guíate con la numeración de los menú. (similar a un cajero automático)
+- IMPORTANTE: No utilices el teclado numérico ya que no reconocerá la teclas como número.
 
 
 ## Comandos útiles (CONSOLA)
