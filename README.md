@@ -7,11 +7,16 @@ Video juego creado en Assembly86
 1- Descargar el archivo maquinaVirtual.exe e instalarlo.              
 2- Seguir las instrucciones.            
 3- Descargar los archivos de la carpeta [src](src/persiah.bmp)      
-5- Descargar el archivo [MAINGAME.EXE](MAINGAME.EXE)
-4- Copiar los 3 archivos en la Carpeta Tasm. (EJEMPLO: C:\Tasm 1.4\Tasm)                   
+4- Descargar el archivo [MAINGAME.EXE](MAINGAME.EXE)
+5- Copiar los 2 archivos en la Carpeta Tasm. (EJEMPLO: C:\Tasm 1.4\Tasm)     
+6- Ejecutar la maquina virtual
+7- Tipear **maingame** para iniciar el juego
 
 
-## Instalación video juego
+## Opcional: Creacion el .EXE
+
+Con los archivos de la carpeta src adentro de la carpeta tasm hacer.
+
 1- Ejecutar maquina virtual (icono manzanita)               
 2- Ejecutar las siguientes instrucciones en la linea de comandos:               
 
