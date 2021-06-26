@@ -1,2 +1,5 @@
-# Prisionero-de-Persia-VideoGame
-Video Juego realizado en assembly 86
+# Prisionero de Persia
+
+Video juego creado en Assembly86
+
+[Instalacion](src/instrucciones.md)
