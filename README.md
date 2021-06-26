@@ -6,7 +6,7 @@ Video juego creado en Assembly86
 
 1- Descargar el archivo maquinaVirtual.exe e instalarlo.              
 2- Seguir las instrucciones.            
-3- Descargar los archivos de la siguiente [src](src/)                   
+3- Descargar los archivos de la carpeta [src](src/)                   
 4- Copiar los 3 archivos en la Carpeta Tasm. (EJEMPLO: C:\Tasm 1.4\Tasm)                   
 
 
@@ -23,12 +23,13 @@ Video juego creado en Assembly86
 ## Objetivo del juego
 
 Este es un juego de ingenio y azar. Sos un prisionero que intenta escapar de un calabozo custodiado por muchos guardias.
-Tu misión es explorar los distintos lugares en busqueda de elementos que te ayuden a escapar:
+Tu misión es explorar los distintos lugares en búsqueda de elementos que te ayuden a escapar:
 - Recorre todos los lugares en busqueda de objetos clave.
-- Piensa con cuidado por donde avanzar
+- Piensa con cuidado por donde avanzar.
+- Recorre nuevamente los lugares, quizas haya cambiado algo.
 - Recolecta armas y escudos que te serviran en la batalla.
-- El azar es el unico que podra ayudarte
-- Ten paciencia y lee con detenimiento todo los textos
+- El azar rige tu destino pero tambien tu inteligencia.
+- Ten paciencia y lee con detenimiento todo los textos.
 
 ![presentacion](presentacion.png)
 
