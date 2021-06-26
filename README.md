@@ -23,15 +23,16 @@ Video juego creado en Assembly86
 ## Objetivo del juego
 
 Este es un juego de ingenio y azar. Sos un prisionero que intenta escapar de un calabozo custodiado por muchos guardias.
-Tu mision es explorar los distintos lugares en busqueda de elementos que te ayuden a escapar.
-Seguramente debas volver a recorrer los mismos lugares ya que cambia la interaccion si se tienen o no objetos clave.
-Tambien tu mision es encontrar las armas necesarias para poder escapar con vida. Si no obtienes todas las armas será
-mas dificil lograr el objetivo.
-Explora, piensa y descubre todos los recovecos de este calabozo.
+Tu mision es explorar los distintos lugares en busqueda de elementos que te ayuden a escapar:
+- Recorre todos los lugares en busqueda de objetos clave.
+- Piensa con cuidado por donde avanzar
+- Recolecta armas y escudos que te serviran en la batalla.
+- El azar es el unico que podra ayudarte
+- Ten paciencia y lee con detenimiento todo los textos
 
 
-## Comandos utiles
+## Comandos utiles (CONSOLA)
 
-cls: Limpiar pantalla
-Alt+ENTER: minimizar/maximizar
-arrowUp: Tipea comando anterior
+**cls:** Limpiar pantalla          
+**Alt+ENTER:** minimizar/maximizar               
+**arrowUp:** Tipea comando anterior               
