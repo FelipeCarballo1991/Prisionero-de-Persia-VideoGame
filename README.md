@@ -5,7 +5,7 @@ Video juego creado en Assembly
 ## Instalacion Maquina Virtual y Video juego.
 
 1- Descargar el archivo maquinaVirtual.exe e instalarlo.                          
-2- Descargar los archivos de la carpeta [src.](src/persiah.bmp)      
+2- Descargar este [archivo](src/persiah.bmp)      
 3- Descargar el archivo [MAINGAME.](MAINGAME.EXE)             
 4- Copiar los 2 archivos en la Carpeta Tasm. (EJEMPLO: C:\Tasm 1.4\Tasm)     
 5- Ejecutar la maquina virtual.                
